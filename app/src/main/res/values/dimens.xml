@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">14dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <!-- Dimention in video list -->
+    <dimen name="card_video_radius">2dp</dimen>
+    <dimen name="card_elevation">3dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="video_cover_height">250dp</dimen>
+    <dimen name="video_title_padding">10dp</dimen>
+    <dimen name="video_channel_title_padding">10dp</dimen>
+    <dimen name="video_channel_title_size">16dp</dimen>
+    <dimen name="video_title_size">18dp</dimen>
+</resources>

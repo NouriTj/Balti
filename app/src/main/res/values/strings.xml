@@ -1,0 +1,20 @@
+
+<!DOCTYPE resources [
+    <!ENTITY app_name "Balti بلطي">
+    <!ENTITY app_url "https://play.google.com/store/apps/details?id=tn.triforce.balti">
+    ]>
+<resources>
+    <string name="app_name" translatable="false">Balti بلطي</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-7079126585670983~2429473052</string>
+    <!--  <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+   <string name="interstitiel_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>-->
+     <string name="banner_ad_unit_id" translatable="false">ca-app-pub-7079126585670983/1863987532</string>
+     <string name="interstitiel_ad_unit_id" translatable="false">ca-app-pub-7079126585670983/6158455768</string>
+     <string name="action_settings">Settings</string>
+     <string name="loading">Loading...</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="text_share_app">Try the application &app_name;, to see the latest videos of Balti.\t&app_url;</string>
+    <string name="text_about_app">The latest video clips of Tunisian rapper and composer Balti.</string>
+
+</resources>

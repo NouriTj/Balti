@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY app_name "Balti بلطي">
+    <!ENTITY app_url "https://play.google.com/store/apps/details?id=tn.triforce.balti">
+    ]>
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="loading">Chargement...</string>
+    <string name="share">Partager</string>
+    <string name="about">À propos</string>
+    <string name="text_share_app">Essayez l\'application &app_name;, pour voir les derniers vidéos de Balti.\t &app_url;</string>
+    <string name="text_about_app">Les derniers vidéo-clips du rappeur et compositeur tunisien Balti.</string>
+
+</resources>
